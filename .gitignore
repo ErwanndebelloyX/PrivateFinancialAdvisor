@@ -15,3 +15,8 @@ __pycache__/
 # Ignore OS-specific files
 .DS_Store
 Thumbs.db
+
+personal_data/
+
+# Ignore database files
+src/data
