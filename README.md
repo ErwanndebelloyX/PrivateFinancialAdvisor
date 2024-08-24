@@ -65,3 +65,5 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 ## License
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
+
+touch src/main.py src/config.py src/scraping/scraper.py src/processing/llm_processor.py src/processing/data_cleaning.py src/processing/analysis.py src/display/cli.py src/display/web.py src/tests/test_scraping.py
